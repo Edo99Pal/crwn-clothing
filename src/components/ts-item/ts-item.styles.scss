@@ -1,0 +1,17 @@
+.ts-item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+
+    .collection-item {
+        width: 50%;
+        margin-bottom: 30px;
+        color: white;
+        .collection-footer {
+            position: relative;
+            top: -5px;
+            height: auto;
+        }
+    }
+}

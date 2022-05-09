@@ -8,7 +8,8 @@ const SHOP_DATA = [
         id: 1,
         name: 'Brown Brim',
         imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-        price: 25
+        price: 25,
+        topSeller: true
       },
       {
         id: 2,
@@ -32,7 +33,8 @@ const SHOP_DATA = [
         id: 5,
         name: 'Green Beanie',
         imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
-        price: 18
+        price: 18,
+        topSeller: true
       },
       {
         id: 6,
@@ -50,7 +52,8 @@ const SHOP_DATA = [
         id: 8,
         name: 'Wolf Cap',
         imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
-        price: 14
+        price: 14,
+        topSeller: true
       },
       {
         id: 9,
@@ -69,7 +72,8 @@ const SHOP_DATA = [
         id: 10,
         name: 'Adidas NMD',
         imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
-        price: 220
+        price: 220,
+        topSeller: true
       },
       {
         id: 11,
@@ -81,7 +85,8 @@ const SHOP_DATA = [
         id: 12,
         name: 'Black Converse',
         imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
-        price: 110
+        price: 110,
+        topSeller: true
       },
       {
         id: 13,
@@ -99,7 +104,8 @@ const SHOP_DATA = [
         id: 15,
         name: 'Nike Brown High Tops',
         imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
-        price: 160
+        price: 160,
+        topSeller: true
       },
       {
         id: 16,
@@ -124,13 +130,15 @@ const SHOP_DATA = [
         id: 18,
         name: 'Black Jean Shearling',
         imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
-        price: 125
+        price: 125,
+        topSeller: true
       },
       {
         id: 19,
         name: 'Blue Jean Jacket',
         imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
-        price: 90
+        price: 90,
+        topSeller: true
       },
       {
         id: 20,
@@ -148,7 +156,8 @@ const SHOP_DATA = [
         id: 22,
         name: 'Tan Trench',
         imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
-        price: 185
+        price: 185,
+        topSeller: true
       }
     ]
   },
@@ -161,7 +170,8 @@ const SHOP_DATA = [
         id: 23,
         name: 'Blue Tanktop',
         imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
-        price: 25
+        price: 25,
+        topSeller: true
       },
       {
         id: 24,
@@ -173,7 +183,8 @@ const SHOP_DATA = [
         id: 25,
         name: 'Floral Dress',
         imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
-        price: 80
+        price: 80,
+        topSeller: true
       },
       {
         id: 26,
@@ -185,7 +196,8 @@ const SHOP_DATA = [
         id: 27,
         name: 'Striped Sweater',
         imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
-        price: 45
+        price: 45,
+        topSeller: true
       },
       {
         id: 28,
@@ -197,7 +209,8 @@ const SHOP_DATA = [
         id: 29,
         name: 'White Blouse',
         imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
-        price: 20
+        price: 20,
+        topSeller: true
       }
     ]
   },
@@ -210,7 +223,8 @@ const SHOP_DATA = [
         id: 30,
         name: 'Camo Down Vest',
         imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
-        price: 325
+        price: 325,
+        topSeller: true
       },
       {
         id: 31,
@@ -222,13 +236,15 @@ const SHOP_DATA = [
         id: 32,
         name: 'Black & White Longsleeve',
         imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
-        price: 25
+        price: 25,
+        topSeller: true
       },
       {
         id: 33,
         name: 'Pink T-shirt',
         imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
-        price: 25
+        price: 25,
+        topSeller: true
       },
       {
         id: 34,
@@ -240,7 +256,8 @@ const SHOP_DATA = [
         id: 35,
         name: 'Burgundy T-shirt',
         imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
-        price: 25
+        price: 25,
+        topSeller: true
       }
     ]
   }
