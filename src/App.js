@@ -53,7 +53,7 @@ class App extends React.Component {
       <div>
         <Header />
         <Routes>
-          <Route path='/' element={<HomePage/>} />
+          <Route path='/home' element={<HomePage/>} />
           <Route path='/crwn-clothing' element={<HomePage/>}/>
           <Route path='/shop' element={<ShopPage/>}/>
           <Route path='/shop' element={<ShopPage/>}>
